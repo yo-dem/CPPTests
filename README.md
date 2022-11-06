@@ -9,3 +9,6 @@ Nel cifrario di Vigènere la quantità di caratteri per cui scambiare non è pi�
 Testo in chiaro: MESSAGGIO
 Chiave (MELA): MELAMELAM
 Testo cifrato : AMFTNNSLC
+
+Il testo cifrato si ottiene sommando al posto relativo al primo carattere del messaggio in chiaro (M = 11) quello relativo al primo carattere della chiave (M = 11).
+Il risultato  22, quindi la prima lettera del testo cifrato è A (22 = 21 + 1 = A)
